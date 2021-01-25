@@ -1,0 +1,5 @@
+platform :ios, '14.3'
+
+target 'NJUNews' do
+    pod 'SwiftSoup'
+end

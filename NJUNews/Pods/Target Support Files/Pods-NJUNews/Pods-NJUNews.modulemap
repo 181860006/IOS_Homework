@@ -1,0 +1,6 @@
+module Pods_NJUNews {
+  umbrella header "Pods-NJUNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
